@@ -43,12 +43,13 @@ Implemented the `Llama4TextMLP` block with:
   actual decoder layer structure
 
 ## Project Structure
-
+```
 LLaMA4_from_scratch/
 ├── intro.md          # Architecture overview & theory
 ├── tokenizer.py      # BPE tokenizer from scratch
 ├── attention.py      # Multi-head attention with GQA + RoPE
-├── feedforward.py    # SwiGLU MLP with RMSNorm
+└── feedforward.py    # SwiGLU MLP with RMSNorm
+```
 
 ## Why I Built This
 
