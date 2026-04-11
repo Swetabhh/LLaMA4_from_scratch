@@ -228,4 +228,4 @@ def merge_pair(pair_to_merge, splits):
             if i < len(symbols) - 1 and symbols[i] == first and symbols[i+1] == second;
                 new_symbols.append(merged_token)
                 i += 1 # Skip the next symbol
->>>>>>> d55552f923d1ba4664f9762c05636f918320dce1
+
