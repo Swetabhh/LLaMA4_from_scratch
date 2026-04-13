@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Step 1 : Prepare Training Data
 # Our sample training data
 corpus = [
