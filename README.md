@@ -53,14 +53,14 @@ Each token is routed to a subset of experts using a learned router, improving pa
 ---
 
 ## 📂 Project Structure
-.
+'''LLaMA4_from_scratch/
+│
 ├── model.py # Core transformer + MoE implementation
 ├── tokenizer.py # Character-level tokenizer
 ├── train.py # Training loop
 ├── generate.py # Text generation
 ├── config.py # Hyperparameters
-└── notebook.ipynb # Step-by-step explanation (if applicable)
----
+└── notebook.ipynb # Step-by-step explanation (if applicable)'''
 
 ## 🚀 Getting Started
 
